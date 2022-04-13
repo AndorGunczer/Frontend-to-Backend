@@ -1,0 +1,24 @@
+{
+  "name": "ftb",
+  "version": "1.0.0",
+  "description": "Project to have a basic understanding of how to connect the frontend to the backend, and the different kinds of info flow between the 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndorGunczer/Frontend-to-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndorGunczer/Frontend-to-Backend/issues"
+  },
+  "homepage": "https://github.com/AndorGunczer/Frontend-to-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
